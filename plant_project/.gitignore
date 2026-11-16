@@ -1,0 +1,14 @@
+# Игнорируем виртуальные окружения Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Игнорируем сами картинки и тяжелые файлы датасета
+shared/jpg/
+shared/*.mat
+shared/dataset_split/
+
+# Игнорируем системный мусор
+.DS_Store
+Thumbs.db
