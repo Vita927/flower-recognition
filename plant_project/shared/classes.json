@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "note": "Порядок классов = порядок выходов модели. id идут подряд с 0. После начала обучения состав и порядок не менять.",
+  "classes": [
+    { "id": 0, "label": "Rosa canina",           "name_ru": "Шиповник собачий" },
+    { "id": 1, "label": "Bellis perennis",       "name_ru": "Маргаритка многолетняя" },
+    { "id": 2, "label": "Taraxacum officinale",  "name_ru": "Одуванчик лекарственный" },
+    { "id": 3, "label": "Helianthus annuus",     "name_ru": "Подсолнечник однолетний" },
+    { "id": 4, "label": "Tulipa gesneriana",     "name_ru": "Тюльпан Геснера" },
+    { "id": 5, "label": "Matricaria chamomilla", "name_ru": "Ромашка аптечная" },
+    { "id": 6, "label": "Centaurea cyanus",      "name_ru": "Василёк синий" },
+    { "id": 7, "label": "Lavandula angustifolia","name_ru": "Лаванда узколистная" },
+    { "id": 8, "label": "Convallaria majalis",   "name_ru": "Ландыш майский" },
+    { "id": 9, "label": "Trifolium pratense",    "name_ru": "Клевер луговой" }
+  ]
+}
